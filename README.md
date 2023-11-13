@@ -1,7 +1,8 @@
 # G'day Kind Stranger 👋
 
 [![Support Me Directly](https://img.shields.io/badge/Support%20Me%20Directly-FF2683?style=for-the-badge)](https://support.thisismissem.social)&nbsp;&nbsp;[![ko-fi](https://img.shields.io/badge/Support%20Me%20on%20Ko--fi-ff5f5f?style=for-the-badge
-)](https://ko-fi.com/W7W02QLNE)
+)](https://ko-fi.com/W7W02QLNE)&nbsp;&nbsp;[![GitHub Sponsors](https://img.shields.io/github/sponsors/thisismissem?style=for-the-badge&label=GitHub%20Sponsors)](https://github.com/sponsors/ThisIsMissEm/)
+
 
 ## 🙋🏻‍♀️ I'm Emelia
 
