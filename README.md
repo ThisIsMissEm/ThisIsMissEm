@@ -11,7 +11,7 @@ Most commonly I'm known as `@thisismissem` across the internet.
 
 ## 🌱 Currently
 
-I'm contributing to [Mastodon](https://github.com/mastodon/mastodon/pulls?q=is%3Apr+author%3AThisIsMissEm+sort%3Aupdated-desc), [Pixelfed](https://github.com/pixelfed/pixelfed/pulls?q=is%3Apr+author%3AThisIsMissEm+sort%3Aupdated-desc), and working on Trust & Safety for the Fediverse.
+I'm contributing to [Mastodon](https://github.com/mastodon/mastodon/pulls?q=is%3Apr+author%3AThisIsMissEm+sort%3Aupdated-desc), [Hollo](https://github.com/fedify-dev/hollo/pulls?q=is%3Apr+author%3AThisIsMissEm+sort%3Aupdated-desc), and working on Trust & Safety for the Fediverse.
 
 ## 🔭 In the past
 
